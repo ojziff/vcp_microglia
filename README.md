@@ -15,9 +15,9 @@ MOND-D-24-00068R2
 
 ## Data availability
 
-RNA sequencing data have been deposited in the GEO under accession number [GSE***](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE***). 
+RNA sequencing data have been deposited in the GEO under accession number [GSE282665](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE282665). 
 
-Mass Spectrometry data have been deposited in the ProteomeXchange Consortium via the PRIDE partner repository under identifier PXD***.
+Mass Spectrometry data have been deposited in the ProteomeXchange Consortium via the PRIDE partner repository under identifier PXD057586.
 
 Post-mortem RNA sequencing data is accessible at [GSE137810](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137810) and https://collaborators.nygenome.org/. 
 
