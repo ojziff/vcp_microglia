@@ -9,7 +9,7 @@ Benjamin E. Clarke1,2†*, Oliver J. Ziff1,2,3†*, Giulia Tyzack1,2, Marija Pet
 
 This repository contains an R Markdown file that includes the scripts necessary to generate each figure in the manuscript. The Rmd file is organised into sections corresponding to the figures in the manuscript. Please refer to the instructions provided within the Rmd file to reproduce the figures. We have included a separate script called "microglia_deseq_objects.R" that generates the DESeq2 and DEP objects required for the analysis. Additionally, the script entitled "R_workspace.R" loads all the necessary packages and functions required for the figures. Please run these scripts before executing the R Markdown file to ensure all dependencies are properly set up.
 
-#### [Manuscript link]([https://molecularneurodegeneration.biomedcentral.com/](https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-024-00773-1))
+#### [Manuscript link]([https://molecularneurodegeneration.biomedcentral.com/](https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-024-00773-1)
 DOI : 10.1186/s13024-024-00773-1
 MOND-D-24-00068R2
 
